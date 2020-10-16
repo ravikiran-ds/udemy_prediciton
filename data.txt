@@ -1,0 +1,344 @@
+Title	Cost	Students	Duration	Lectures	Levels	Ratings								
+Automate the Boring Stuff with Python Programming	₹420	"(71,868)"	9.5 total hours	51 lectures	All Levels	4.6								
+Learn Python Programming Masterclass	₹420	"(59,945)"	59 total hours	418 lectures	All Levels	4.5								
+2020 Complete Python Bootcamp: From Zero to Hero in Python	₹420	"(321,328)"	21.5 total hours	152 lectures	All Levels	4.6								
+Python for Data Science and Machine Learning Bootcamp	₹426	"(88,387)"	25 total hours	165 lectures	All Levels	4.6								
+The Python Mega Course: Build 10 Real World Applications	₹420	"(43,187)"	25.5 total hours	282 lectures	All Levels	4.5								
+Python for Beginners: Learn Python Programming (Python 3)	₹420	"(10,908)"	3 total hours	78 lectures	All Levels	4.4								
+Machine Learning A-Z™: Hands-On Python & R In Data Science	₹420	"(133,214)"	44.5 total hours	322 lectures	All Levels	4.5								
+The Python Bible™ | Everything You Need to Program in Python	₹420	"(29,760)"	9 total hours	74 lectures	Beginner	4.6								
+The Modern Python 3 Bootcamp	₹420	"(20,401)"	30.5 total hours	376 lectures	Beginner	4.7								
+"Machine Learning, Data Science and Deep Learning with Python"	₹420	"(22,765)"	14.5 total hours	111 lectures	Beginner	4.5								
+Complete Python Developer in 2020: Zero to Mastery	₹420	"(20,668)"	30.5 total hours	326 lectures	All Levels	4.7								
+Python for Absolute Beginners	₹420	"(17,574)"	3 total hours	89 lectures	Beginner	4.4								
+Python for beginners	₹420	"(16,394)"	10 total hours	229 lectures	All Levels	4.4								
+The Complete Python Course | Learn Python by Doing	₹420	"(11,202)"	35.5 total hours	343 lectures	All Levels	4.6								
+Python for Finance: Investment Fundamentals & Data Analytics	₹438	"(18,149)"	8.5 total hours	111 lectures	All Levels	4.5								
+Python and Django Full Stack Web Developer Bootcamp	₹420	"(34,070)"	32 total hours	198 lectures	All Levels	4.5								
+Programming with Python : HandsOn Introduction for Beginners	₹420	"(10,118)"	3.5 total hours	35 lectures	Beginner	4.4								
+The Complete Python 3 Course: Beginner to Advanced!	₹420	"(19,333)"	18 total hours	147 lectures	All Levels	4.2								
+Deep Learning Prerequisites: The Numpy Stack in Python (V2+)	₹420	"(18,422)"	5.5 total hours	46 lectures	All Levels	4.5								
+REST APIs with Flask and Python	₹420	"(11,265)"	17 total hours	156 lectures	Intermediate	4.6								
+Python A-Z™: Python For Data Science With Real Exercises!	₹420	"(17,977)"	11 total hours	75 lectures	All Levels	4.6								
+Data Analysis with Pandas and Python	₹420	"(11,130)"	20.5 total hours	168 lectures	All Levels	4.7								
+Python for Financial Analysis and Algorithmic Trading	₹420	"(13,664)"	17 total hours	120 lectures	All Levels	4.6								
+Learning Python for Data Analysis and Visualization	₹420	"(15,066)"	21 total hours	110 lectures	All Levels	4.4								
+Spark and Python for Big Data with PySpark	₹420	"(12,588)"	10.5 total hours	67 lectures	Intermediate	4.5								
+Python for Beginners with Examples	₹420	"(8,739)"	4.5 total hours	83 lectures	Beginner	4.4								
+"Python for Data Structures, Algorithms, and Interviews!"	₹420	"(8,407)"	17 total hours	228 lectures	Intermediate	4.4								
+Learn Python & Ethical Hacking From Scratch	₹444	"(11,160)"	24.5 total hours	180 lectures	All Levels	4.6								
+Taming Big Data with Apache Spark and Python - Hands On!	₹420	"(9,227)"	7 total hours	63 lectures	All Levels	4.5								
+30 Days of Python | Unlock your Python Potential	₹420	"(7,044)"	9.5 total hours	45 lectures	All Levels	4.5								
+Python Bootcamp 2020 Build 15 working Applications and Games	₹420	"(7,378)"	32 total hours	378 lectures	All Levels	4.3								
+Data Science: Natural Language Processing (NLP) in Python	₹420	"(8,877)"	9.5 total hours	76 lectures	All Levels	4.5								
+Artificial Intelligence: Reinforcement Learning in Python	"₹1,920"	"(7,857)"	12.5 total hours	107 lectures	Intermediate	4.5								
+Learn to Code in Python 3: Programming beginner to advanced	₹420	"(7,452)"	5.5 total hours	45 lectures	Beginner	4.5								
+Python OOP : Four Pillars of OOP in Python 3 for Beginners	₹420	"(6,757)"	2.5 total hours	25 lectures	Beginner	4.4								
+Natural Language Processing with Deep Learning in Python	"₹2,560"	"(6,085)"	12 total hours	95 lectures	Expert	4.5								
+The Complete Python Masterclass: Learn Python From Scratch	₹426	"(5,658)"	33.5 total hours	344 lectures	All Levels	4.4								
+Data Science: Deep Learning in Python	₹420	"(6,900)"	11 total hours	89 lectures	Intermediate	4.6								
+NLP - Natural Language Processing with Python	₹420	"(5,994)"	11.5 total hours	80 lectures	Intermediate	4.6								
+The Complete Python 3 Course: Go from Beginner to Advanced!	₹420	"(5,013)"	8 total hours	73 lectures	All Levels	4.0								
+Python for Beginners	₹420	"(4,091)"	11 total hours	78 lectures	Beginner	4.6								
+Python 3: Deep Dive (Part 1 - Functional)	₹420	"(4,756)"	44.5 total hours	158 lectures	Intermediate	4.8								
+Django 2.2 & Python | The Ultimate Web Development Bootcamp	₹420	"(4,874)"	10 total hours	78 lectures	Beginner	4.5								
+Teach Your Kids to Code: Learn Python Programming at Any Age	₹420	"(5,919)"	7.5 total hours	112 lectures	All Levels	4.5								
+Python Coding MADE EASY : A Python Coding Course in Python 3	₹420	"(2,440)"	2 total hours	20 lectures	Beginner	4.7								
+Complete Python Web Course: Build 8 Python Web Apps	₹420	"(4,322)"	15.5 total hours	160 lectures	All Levels	4.5								
+Python 3 Network Programming - Build 5 Network Applications	₹420	"(4,097)"	12 total hours	212 lectures	Beginner	4.6								
+Python Network Programming for Network Engineers (Python 3)	₹420	"(4,702)"	13 total hours	171 lectures	Beginner	4.7								
+Python for beginners - Learn all the basics of python	₹420	"(3,848)"	5 total hours	29 lectures	Beginner	4.3								
+Selenium WebDriver With Python 3.x - Novice To Ninja	₹420	"(4,795)"	31 total hours	222 lectures	All Levels	4.5								
+The Complete Python & PostgreSQL Developer Course	₹420	"(4,437)"	22 total hours	185 lectures	Beginner	4.7								
+Python and Flask Bootcamp: Create Websites using Flask!	₹420	"(4,623)"	20 total hours	127 lectures	All Levels	4.7								
+Deep Learning Prerequisites: Linear Regression in Python	₹420	"(4,488)"	6.5 total hours	54 lectures	All Levels	4.6								
+Selenium Webdriver with PYTHON from Scratch + Frameworks	₹420	"(4,345)"	18.5 total hours	130 lectures	All Levels	4.6								
+Deep Learning: Convolutional Neural Networks in Python	₹420	"(3,155)"	11.5 total hours	72 lectures	All Levels	4.6								
+Cluster Analysis and Unsupervised Machine Learning in Python	"₹1,920"	"(3,911)"	6.5 total hours	48 lectures	Beginner	4.5								
+Bayesian Machine Learning in Python: A/B Testing	₹420	"(3,959)"	9.5 total hours	76 lectures	All Levels	4.6								
+Python for Computer Vision with OpenCV and Deep Learning	₹420	"(4,826)"	14 total hours	92 lectures	Intermediate	4.6								
+Python Django Dev To Deployment	₹420	"(3,765)"	11 total hours	70 lectures	Intermediate	4.6								
+Advanced AI: Deep Reinforcement Learning in Python	"₹1,920"	"(3,521)"	10.5 total hours	79 lectures	Expert	4.6								
+Complete Python programming-Python Basics to Advanced Python	₹420	"(1,387)"	7 total hours	89 lectures	All Levels	4.0								
+Python for Time Series Data Analysis	₹420	3651	15.5 total hours	95 lectures	Intermediate	4.6								
+The Complete Python Programmer Bootcamp 2020	₹420	2596	13 total hours	172 lectures	All Levels	4.6								
+Deep Learning Prerequisites: Logistic Regression in Python	₹420	3053	6 total hours	59 lectures	All Levels	4.5								
+Learn to Code with Python	₹420	2564	58 total hours	406 lectures	All Levels	4.7								
+Python for Beginners - Beginner Friendly Python in 100 Steps	₹420	2246	11 total hours	139 lectures	Beginner	4.4								
+[BESTSELLER]™ Python Data Analysis & Visualization Bootcamp	"₹1,600"	3051	8 total hours	45 lectures	Beginner	4.5								
+Complete Python 3 Masterclass Journey	₹420	2447	10.5 total hours	108 lectures	All Levels	4.5								
+Learn Python: Python for Beginners	₹420	2490	1.5 total hours	27 lectures	Beginner	3.8								
+Modern Deep Learning in Python	₹420	2380	9.5 total hours	81 lectures	All Levels	4.6								
+Recommender Systems and Deep Learning in Python	₹420	2159	12 total hours	87 lectures	Intermediate	4.6								
+Deep Learning: Recurrent Neural Networks in Python	₹420	2863	11.5 total hours	70 lectures	All Levels	4.6								
+Python eCommerce | Build a Django eCommerce Web Application	₹444	2738	33 total hours	223 lectures	All Levels	4.5								
+Python Beyond the Basics - Object-Oriented Programming	₹420	2625	5 total hours	55 lectures	Intermediate	4.2								
+Algorithms and Data Structures in Python	₹420	2689	14.5 total hours	160 lectures	All Levels	4.2								
+Python - The Practical Guide	₹420	3511	17.5 total hours	230 lectures	All Levels	4.6								
+Automated Software Testing with Python	₹420	2772	13.5 total hours	141 lectures	Intermediate	4.5								
+Learn Complete Python In Simple Way	₹420	2195	114 total hours	423 lectures	All Levels	4.7								
+PYTHON - A to Z Full Course for Beginners	₹420	1196	25 total hours	250 lectures	All Levels	3.7								
+"Python + SQL + Tableau: Integrating Python, SQL, and Tableau"	₹444	2090	5.5 total hours	91 lectures	Intermediate	4.5								
+Build a Backend REST API with Python & Django - Beginner	₹420	"(2,881)"	5 total hours	76 lectures	Beginner	4.6								
+Learn Python: The Complete Python Programming Course	₹420	"(1,628)"	14.5 total hours	146 lectures	All Levels	4.1								
+Learn to Code with Python 3!	₹420	"(2,791)"	17.5 total hours	78 lectures	All Levels	4.1								
+Unsupervised Machine Learning Hidden Markov Models in Python	₹420	"(2,724)"	9 total hours	63 lectures	All Levels	4.6								
+Python Programming for Beginners in Data Science	₹420	"(2,568)"	14 total hours	105 lectures	Beginner	4.4								
+Python 101	₹420	"(1,117)"	17 total hours	113 lectures	All Levels	4.2								
+Python for Programmers	₹420	"(1,405)"	6 total hours	84 lectures	All Levels	4.5								
+Python Programming Beginners Tutorial : Python 3 Programming	₹420	"(1,803)"	13.5 total hours	100 lectures	Beginner	4.2								
+Unsupervised Deep Learning in Python	"₹2,240"	"(1,555)"	10.5 total hours	82 lectures	Intermediate	4.7								
+Python 3 For Beginners in 2020!	₹420	"(1,330)"	6 total hours	80 lectures	All Levels	4.4								
+Become a Professional Python Programmer	₹420	"(1,583)"	39.5 total hours	336 lectures	All Levels	4.4								
+Complete Python Programming Masterclass Beginner to Advanced	₹420	"(1,334)"	7 total hours	109 lectures	All Levels	4.6								
+Complete Data Science Training with Python for Data Analysis	₹420	"(1,451)"	13 total hours	123 lectures	All Levels	4.2								
+Build a Backend REST API with Python & Django - Advanced	₹420	"(2,938)"	8 total hours	77 lectures	Intermediate	4.6								
+The Ultimate Python Programming Tutorial	₹420	"(1,905)"	6 total hours	94 lectures	All Levels	4.4								
+Python Programming for Beginners	₹420	"(1,192)"	3 total hours	26 lectures	Beginner	4.1								
+100 Python Exercises: Evaluate and Improve Your Skills	₹420	"(1,887)"	3 total hours	207 lectures	All Levels	4.3								
+Python 3 Complete Masterclass - Make Your Job Tasks Easier!	₹420	"(1,741)"	20.5 total hours	324 lectures	Beginner	4.6								
+The Complete Python Developer Course	₹420	"(1,167)"	9 total hours	82 lectures	All Levels	4.1								
+Python for Beginners : Concise and Practical	₹420	"(1,209)"	5.5 total hours	30 lectures	Beginner	4.1								
+Scrapy: Powerful Web Scraping & Crawling with Python	₹420	"(2,258)"	11 total hours	86 lectures	All Levels	4.4								
+The Complete Python Course: Go From Beginner To Advanced!	₹420	"(1,643)"	14.5 total hours	72 lectures	All Levels	4.3								
+Learn! Python from scratch - Basics to Advanced	₹420	"(1,696)"	8 total hours	41 lectures	All Levels	4.2								
+The Complete Pandas Bootcamp 2020: Data Science with Python	₹420	"(1,453)"	32 total hours	307 lectures	All Levels	4.7								
+Python for Beginners: Learn Python Hands-on (Python 3)	₹420	(836)	11 total hours	33 lectures	All Levels	4.2								
+Credit Risk Modeling in Python 2020	₹420	"(2,199)"	7 total hours	75 lectures	All Levels	4.6								
+Master Network Automation with Python for Network Engineers	₹420	"(1,280)"	19 total hours	222 lectures	All Levels	4.6								
+Data Processing with Python	₹420	"(1,456)"	4 total hours	50 lectures	All Levels	4.5								
+Python & Machine Learning for Financial Analysis	₹420	"(1,763)"	23 total hours	131 lectures	All Levels	4.6								
+Python for Beginners: Complete Python Programming	₹420	(668)	3 total hours	21 lectures	Beginner	3.8								
+Django 3 - Full Stack Websites with Python Web Development	₹420	"(1,915)"	8.5 total hours	78 lectures	Beginner	4.6								
+Data Science: Supervised Machine Learning in Python	"₹1,920"	"(1,944)"	6 total hours	53 lectures	Beginner	4.5								
+Algorithmic Trading & Quantitative Analysis Using Python	₹420	"(1,600)"	18.5 total hours	106 lectures	Intermediate	4.5								
+The Complete Python Hacking Course: Beginner to Advanced!	₹420	"(1,104)"	17.5 total hours	89 lectures	All Levels	4.4								
+Master Python Programming: The Complete Python Bootcamp 2020	₹420	(533)	26 total hours	353 lectures	All Levels	4.5								
+"Complete SQL Bootcamp with MySQL, PHP & Python"	₹420	"(1,626)"	3 total hours	36 lectures	All Levels	4.1								
+"Python Programming for Network Engineers: Cisco, Netmiko ++"	₹420	"(1,040)"	6 total hours	31 lectures	Beginner	4.4								
+"Coding for Entrepreneurs: Learn Python, Django, and More."	₹420	"(1,027)"	45 total hours	251 lectures	All Levels	4.2								
+The Complete Python 3 Masterclass - From Beginner To Pro	₹420	(592)	27.5 total hours	276 lectures	All Levels	4.6								
+Python for Absolute Beginners: Learn Python in One Day	₹420	(700)	5 total hours	93 lectures	Beginner	4.4								
+Complete Python Bootcamp : Go Beginner to Expert in Python 3	₹420	(994)	11 total hours	129 lectures	All Levels	4.0								
+"Python for Network Engineers: Netmiko, NAPALM, pyntc, Telnet"	₹420	"(1,955)"	14 total hours	176 lectures	Beginner	4.7								
+"Algorithmic Trading: Backtest, Optimize & Automate in Python"	₹420	"(1,086)"	10 total hours	56 lectures	All Levels	4.5								
+Python Programming Bootcamp	₹420	(976)	38 total hours	162 lectures	All Levels	4.7								
+The Data Science Course 2020: Complete Data Science Bootcamp	₹456	"(77,928)"	29 total hours	471 lectures	All Levels	4.5								
+"Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps"	₹420	"(1,178)"	10.5 total hours	45 lectures	Beginner	4.3								
+"Ensemble Machine Learning in Python: Random Forest, AdaBoost"	"₹1,920"	"(1,408)"	5.5 total hours	43 lectures	All Levels	4.6								
+Python 3 Programming: Beginner to Pro Masterclass	₹420	(710)	22.5 total hours	141 lectures	Beginner	4.4								
+Python From Scratch & Selenium WebDriver From Scratch	₹420	"(1,009)"	9.5 total hours	73 lectures	Beginner	3.8								
+The Complete Python Programming Bootcamp	₹420	(504)	9 total hours	96 lectures	All Levels	4.3								
+Learn Python Programming From Scratch	₹420	(616)	6.5 total hours	40 lectures	Beginner	4.7								
+Python for Penetration Testers	₹420	(887)	2 total hours	11 lectures	Intermediate	4.2								
+Python 3: Deep Dive (Part 4 - OOP)	₹420	(758)	35 total hours	162 lectures	Intermediate	4.9								
+Machine Learning and Data Science Hands-on with Python and R	₹444	"(1,240)"	72.5 total hours	522 lectures	All Levels	3.6								
+Python 3 For Offensive PenTest: A Complete Practical Course	₹420	"(1,295)"	5 total hours	58 lectures	Intermediate	4.6								
+Master Math by Coding in Python	₹420	(930)	34.5 total hours	164 lectures	All Levels	4.7								
+Django & Python: complete BUNDLE + Django real project 2020	₹444	"(1,765)"	56 total hours	359 lectures	All Levels	4.5								
+Python For Maya: Artist Friendly Programming	₹420	"(1,214)"	8 total hours	77 lectures	All Levels	4.4								
+Python for Beginners - Learn Programming from scratch	₹420	(887)	2.5 total hours	42 lectures	All Levels	4.6								
+Python - A Beginners guide towards Python Programming	₹420	(559)	4.5 total hours	21 lectures	All Levels	4.3								
+Python Best Parts: Standard Library (Beginner to Advanced)	₹420	(970)	33 total mins	14 lectures	All Levels	4.6								
+Design Patterns in Python	₹420	(920)	9 total hours	107 lectures	Intermediate	4.4								
+Python on the Backend	₹420	(548)	4 total hours	29 lectures	All Levels	4.5								
+Customer Analytics in Python 2020	₹420	(521)	5 total hours	77 lectures	Intermediate	4.6								
+GUI Development with Python and Tkinter	₹420	(890)	11 total hours	116 lectures	Intermediate	4.6								
+Python & Introduction to Data Science	₹420	(994)	9 total hours	68 lectures	Beginner	4.4								
+Unit Testing and Test Driven Development in Python	₹420	(947)	2 total hours	23 lectures	Beginner	4.3								
+Complete Python Scripting for Automation	₹420	(793)	25 total hours	102 lectures	Beginner	4.4								
+Python Data Structures A to Z	₹420	(594)	2 total hours	15 lectures	Intermediate	4.2								
+Machine Learning and AI: Support Vector Machines in Python	₹420	(614)	9 total hours	73 lectures	Expert	4.5								
+Python Programming For Network Engineers	₹420	(640)	11 total hours	84 lectures	Beginner	4.0								
+Logistic Regression in Python	₹420	(642)	7.5 total hours	80 lectures	All Levels	4.2								
+Complete Linear Regression Analysis in Python	₹420	(855)	7.5 total hours	69 lectures	All Levels	4.3								
+"Web Scraping with Python: BeautifulSoup, Requests & Selenium"	₹420	(799)	8 total hours	72 lectures	Intermediate	4.1								
+Complete Data Analysis with Pandas : Hands-on Pandas Python	₹420	(521)	17 total hours	150 lectures	All Levels	4.4								
+Machine Learning & Deep Learning in Python & R	₹420	(751)	35 total hours	279 lectures	All Levels	4.4								
+Python Django Web Development: To-Do App	₹420	(871)	2 total hours	31 lectures	Beginner	4.5								
+Project Based Python Programming For Kids & Beginners	₹432	(589)	5 total hours	55 lectures	All Levels	4.2								
+Introduction To Python For Ethical Hacking	₹420	(933)	2.5 total hours	16 lectures	All Levels	4.0								
+Time Series Analysis in Python 2020	₹420	(861)	7.5 total hours	97 lectures	All Levels	4.4								
+Python Game Development™ : Build 11 Total Games	₹420	(625)	33.5 total hours	174 lectures	Beginner	4.0								
+Python for Beginners - Go from Java to Python in 100 Steps	₹420	(641)	8 total hours	103 lectures	All Levels	4.5								
+CCA 175 - Spark and Hadoop Developer - Python (pyspark)	₹450	"(1,190)"	23 total hours	158 lectures	Intermediate	4.4								
+Python Fundamentals	₹420	(372)	6.5 total hours	49 lectures	Beginner	4.5								
+Python Programming Bible: Hands-On Python 3 with 10 Projects	₹420	(230)	14 total hours	108 lectures	All Levels	4.7								
+"Basics of Python & arcpy , the Python library of ESRI ArcGIS"	₹420	(713)	2.5 total hours	20 lectures	Beginner	4.2								
+Python For Absolute Beginners - Learn To Code In Python	₹420	(134)	4 total hours	42 lectures	Beginner	4.4								
+The Art of Doing: Code 40 Challenging Python Programs Today!	₹700	(762)	28.5 total hours	157 lectures	Beginner	4.7								
+Neural Networks in Python: Deep Learning for Beginners	₹420	(824)	9 total hours	64 lectures	All Levels	4.4								
+Learn To Create AI Assistant (JARVIS) With Python	₹420	(972)	2.5 total hours	25 lectures	Beginner	4.3								
+Projects In Python For Intermediate :Build Python Projects	₹420	(189)	10.5 total hours	75 lectures	Intermediate	4.0								
+Python For Beginners : Quick Start Guide to Python 3	₹420	(179)	7.5 total hours	127 lectures	Beginner	4.6								
+Mastering Python - Networking and Security	₹420	(615)	5 total hours	75 lectures	Intermediate	4.1								
+Cucumber BDD with Python 3 Behave and Selenium WebDriver	₹420	(599)	18.5 total hours	131 lectures	All Levels	4.4								
+Python Basics	₹420	(487)	2 total hours	14 lectures	Beginner	4.2								
+Python For Beginners: Learn Python With Hands-On Examples	₹420	(143)	5.5 total hours	72 lectures	Beginner	4.3								
+CNN for Computer Vision with Keras and TensorFlow in Python	₹420	(545)	7 total hours	53 lectures	All Levels	4.3								
+100 Interactive Python Exercises to Boost Your Python Skill	₹420	(230)	1.5 total hours	21 lectures	All Levels	4.5								
+Python Hero: Full Course with Projects ||Hindi/Urdu||	₹420	(574)	9 total hours	73 lectures	All Levels	4.2								
+Programming with Python	₹420	(251)	18 total hours	130 lectures	All Levels	4.5								
+Python in Containers	₹420	(139)	24 total hours	115 lectures	Beginner	4.8								
+"Python for Data science, Machine Learning and AI (Beginners)"	₹420	(471)	7.5 total hours	84 lectures	All Levels	4.3								
+Complete Python Tutorial for Beginners	₹420	(143)	16 total hours	125 lectures	Beginner	4.6								
+Complete Time Series Analysis With Python	₹420	(628)	4 total hours	50 lectures	All Levels	3.9								
+Python A-Z: Learn Python Programming By Building 10 Projects	₹426	(451)	14.5 total hours	175 lectures	All Levels	4.3								
+Learn Advanced Python Programming	₹420	(448)	28.5 total hours	141 lectures	Intermediate	4.0								
+Python : Comprehensive Bootcamp (Beginner To Professional)	₹420	(313)	36 total hours	337 lectures	Beginner	4.5								
+Python 3 Workout - Solve 250 Coding Exercises!	₹420	(172)	1 total hour	269 lectures	Intermediate	4.4								
+Python for Beginners 2020: The Hands-on Concise Crash Course	₹420	(195)	6.5 total hours	97 lectures	All Levels	4.6								
+AWS Automation with boto3 of Python and Lambda Functions	₹420	(582)	10 total hours	48 lectures	Beginner	4.6								
+Python 3 from Beginner to Expert - Learn Python from Scratch	₹432	(135)	20 total hours	138 lectures	Beginner	4.5								
+Selenium with Python|Best for beginner | Frameworks -34+ hrs	₹420	(716)	33.5 total hours	348 lectures	All Levels	4.2								
+Python Programming For Everyone	₹420	(171)	2 total hours	29 lectures	Beginner	4.0								
+Python for New learners: Introduction to python programming	₹420	(266)	2.5 total hours	17 lectures	Beginner	4.8								
+"Python 3: Project-based Python, Algorithms, Data Structures"	₹420	(583)	14.5 total hours	102 lectures	All Levels	4.6								
+Complete Python Beginner To Developer Course: Build Projects	₹420	(137)	29.5 total hours	198 lectures	Beginner	4.1								
+Learn Python In A Day With 6 Projects	₹420	(159)	3.5 total hours	43 lectures	Beginner	4.3								
+"Python Programming for Excel Users - NumPy, Pandas and More!"	₹420	(280)	3.5 total hours	70 lectures	Beginner	4.5								
+Complete Python 3 Programming Bootcamp: Beginner to Advanced	₹420	(296)	20 total hours	94 lectures	All Levels	4.4								
+Python 3 Masterclass step by step with coding exercises.	₹420	(136)	17.5 total hours	123 lectures	All Levels	4.8								
+Python Programming Complete A-Z Training: 2020 Edition	₹420	(121)	31 total hours	88 lectures	All Levels	4.3								
+Learn Python With 20+ Real World Projects [In 2020]	₹420	(431)	6 total hours	22 lectures	Beginner	3.9								
+Learn Python Fast and Easy Way	₹420	(312)	3.5 total hours	25 lectures	Beginner	4.3								
+Python For Beginners - The Basics Of Python Development	₹420	(476)	1 total hour	13 lectures	Beginner	4.2								
+"Signal processing problems, solved in MATLAB and in Python"	₹420	(969)	12.5 total hours	99 lectures	Beginner	4.6								
+Practical Python Programming Practices (100 Common Projects)	₹420	(228)	8 total hours	109 lectures	All Levels	4.3								
+LEARNING PATH: Python: Functional Programming with Python	₹420	(169)	5.5 total hours	45 lectures	Beginner	4.3								
+Learn Python: The Complete Python Automation Course!	₹420	(332)	5.5 total hours	55 lectures	All Levels	4.3								
+Using MySQL Databases With Python	₹420	(430)	2 total hours	25 lectures	Beginner	4.3								
+Complete Python Course: from Basics to Brilliance in HD	₹420	(281)	2.5 total hours	75 lectures	All Levels	4.2								
+Python Programming for beginners: Quickly learn python	₹420	(124)	6 total hours	66 lectures	Beginner	4.6								
+Python - From Beginner to Winner	₹420	(174)	3 total hours	39 lectures	Beginner	4.3								
+"Python 3 in 1: Basics, Advanced and Django"	₹420	(407)	20.5 total hours	128 lectures	All Levels	3.6								
+Database Programming with Python	₹420	(174)	8.5 total hours	74 lectures	Beginner	4.2								
+The Complete Python Programmer: From Scratch to Applications	₹420	(297)	14.5 total hours	131 lectures	Beginner	4.4								
+Python for Beginners:Introduction to Python	₹420	(119)	7 total hours	48 lectures	Beginner	4.1								
+Python Design Patterns	₹420	(231)	2.5 total hours	28 lectures	Beginner	4.0								
+Python Excel - Read Write Copy Search Excel Files - OpenPyXL	₹432	(237)	2.5 total hours	26 lectures	All Levels	4.4								
+Python OOPS: Object Oriented Programming For Python Beginner	₹438	(120)	3 total hours	36 lectures	All Levels	4.3								
+Python GUI : From A-to-Z With 2 Final Projects	₹420	(388)	3 total hours	41 lectures	All Levels	3.7								
+Selenium Python - Step by Step for Beginners with Framework	₹420	(473)	10 total hours	55 lectures	All Levels	4.5								
+"Complete Guide to Protocol Buffers 3 [Java, Golang, Python]"	₹420	"(1,729)"	3.5 total hours	69 lectures	Beginner	4.7								
+Python Network Programming - TCP/IP Socket Programming	₹420	(330)	3.5 total hours	32 lectures	All Levels	4.3								
+Intro To TKinter for Python GUI Apps	₹420	(201)	4.5 total hours	51 lectures	Beginner	4.5								
+Generate and visualize data in Python and MATLAB	₹420	(272)	6.5 total hours	46 lectures	All Levels	4.9								
+Control Excel with Python & OpenPyXL	₹432	(205)	3 total hours	47 lectures	Intermediate	4.1								
+Top Python and Javascript Programming Bundle	₹420	(310)	4 total hours	55 lectures	Beginner	4.4								
+API Testing : REST API Testing using Python for Beginners	₹420	(284)	4.5 total hours	31 lectures	All Levels	4.6								
+Linked List Data Structure using Python	₹420	(206)	4 total hours	56 lectures	Intermediate	4.5								
+Learn Data Mining and Machine Learning With Python	₹420	(274)	6.5 total hours	82 lectures	All Levels	4.4								
+Data Structures and Algorithms: In-Depth using Python	₹420	(478)	35 total hours	254 lectures	All Levels	4.4								
+Complete Data Wrangling & Data Visualisation With Python	₹420	(392)	6 total hours	51 lectures	All Levels	4.4								
+Data Visualisation with Plotly and Python	₹420	(274)	23 total hours	143 lectures	Intermediate	4.1								
+Top Python and Django Web Development Bundle!	₹420	(268)	11 total hours	145 lectures	Beginner	4.7								
+Python & Django Framework Course: The Complete Guide	₹420	(338)	3 total hours	65 lectures	All Levels	4.2								
+The Flask Mega-Tutorial (Python Web Development)	"₹1,920"	(284)	11.5 total hours	192 lectures	Beginner	4.6								
+Build a Weather App With Python and Django	₹420	(140)	2.5 total hours	30 lectures	Beginner	4.6								
+Scrapy : Python Web Scraping & Crawling for Beginners	₹420	(140)	4 total hours	27 lectures	All Levels	4.4								
+Python Regression Analysis: Statistics & Machine Learning	₹420	(130)	6 total hours	51 lectures	All Levels	4.4								
+Python And Django Framework For Beginners Complete Course	₹420	(118)	13 total hours	77 lectures	Beginner	4.2								
+Offensive Python | Mastering Ethical Hacking Using Python	₹420	(135)	4 total hours	35 lectures	All Levels	4.2								
+Clustering & Classification With Machine Learning In Python	₹420	(167)	6 total hours	57 lectures	All Levels	4.6								
+HDPCD:Spark using Python (pyspark)	₹420	(491)	11.5 total hours	61 lectures	Intermediate	3.6								
+The Ultimate Tkinter Course: GUI for Python projects	₹420	(330)	3.5 total hours	42 lectures	All Levels	4.7								
+Internet of Things with Python Programming	₹420	(130)	30.5 total hours	27 lectures	All Levels	4.2								
+Python 3 for Beginners | Learn by Creating a Simple Game	₹420	(188)	2.5 total hours	30 lectures	Beginner	4.4								
+Build An MP3 Player With Python And TKinter GUI Apps	₹420	(158)	3 total hours	42 lectures	Intermediate	4.5								
+Software development in Python: A practical approach	₹420	(207)	10.5 total hours	103 lectures	All Levels	4.1								
+Create Your Own Hacking Tools in Python	₹432	(385)	6.5 total hours	33 lectures	All Levels	4.5								
+Artificial Intelligence and Predictive Analysis using Python	₹420	(156)	6.5 total hours	59 lectures	Intermediate	4.8								
+Tensorflow Deep Learning - Data Science in Python	₹420	(158)	7 total hours	69 lectures	All Levels	4.5								
+Master the Python interview (special banks & startups)	₹420	(211)	3 total hours	35 lectures	Beginner	4.3								
+Learn Python and Django: Payment Processing	₹420	(255)	4 total hours	26 lectures	All Levels	4.0								
+"Scalable Web Applications with Python, Flask, and SQLAlchemy"	₹420	(431)	5.5 total hours	61 lectures	Beginner	4.3								
+The Complete Python Developer Certification Course	₹420	(452)	11.5 total hours	58 lectures	All Levels	4.6								
+Complete 2-in-1 Python for Business and Finance Bootcamp	₹420	(354)	36 total hours	383 lectures	All Levels	4.3								
+Python Ethical Hacking : Build tools for ethical hacking	₹420	(496)	10 total hours	122 lectures	Beginner	4.3								
+Data Manipulation in Python: A Pandas Crash Course	₹420	(374)	9 total hours	57 lectures	Beginner	4.6								
+Python Course From Basic to Advanced	₹420	(267)	7.5 total hours	20 lectures	Beginner	4.2								
+Take-off: Master Data Science with Python in 10 Hours | 2020	₹420	(190)	10.5 total hours	61 lectures	All Levels	4.4								
+New to Python Automation..?Try Step by Step Python 4 Testers	₹420	(160)	10 total hours	136 lectures	All Levels	4.7								
+"API Testing with Python 3 & PyTest, Backend Automation 2020"	₹420	(383)	17.5 total hours	139 lectures	All Levels	4.6								
+Python for Time Series Analysis and Forecasting	₹420	(352)	5 total hours	46 lectures	All Levels	4.3								
+Django Masterclass : Build Web Apps With Python & Django	₹420	(426)	18 total hours	152 lectures	All Levels	4.3								
+Python and Django Full-Stack Web Development for beginners	₹420	(405)	34.5 total hours	346 lectures	Beginner	4.2								
+Beginner's Guide to Python Data Analysis & Visualization	₹420	(248)	4 total hours	51 lectures	Beginner	4.1								
+The Complete Python/PostgreSQL Course 2.0	₹420	(387)	13.5 total hours	153 lectures	Intermediate	4.6								
+Full stack web development and AI with Python (Django)	₹420	(478)	39.5 total hours	389 lectures	All Levels	4.5								
+How to create a CRUD Application with Python and SQL Server	₹420	(150)	4 total hours	35 lectures	Beginner	4.1								
+PySpark Essentials for Data Scientists (Big Data + Python)	₹420	(123)	16 total hours	101 lectures	All Levels	4.7								
+Cyber Security - Python and Web Applications	₹420	(184)	11.5 total hours	188 lectures	Beginner	4.5								
+"Build Real Software with Python, PyQt5 and QT Designer"	₹420	(128)	2 total hours	22 lectures	All Levels	4.5								
+"Python, JS, & React | Build a Blockchain & Cryptocurrency"	₹420	(270)	15 total hours	133 lectures	All Levels	4.5								
+Time Series Analysis and Forecasting using Python	₹420	(484)	13 total hours	96 lectures	All Levels	4.3								
+Python and Flask Full-Stack Web Development for beginners	₹420	(150)	35.5 total hours	348 lectures	Beginner	4.4								
+Learn Pro Advanced Python Programming	₹420	(25)	26.5 total hours	173 lectures	Expert	4.7								
+"Full-Stack React, Python, and GraphQL"	₹420	(359)	6.5 total hours	65 lectures	All Levels	4.4								
+ArcPy for Python Developers using ArcGIS Pro	₹420	(485)	11.5 total hours	78 lectures	All Levels	4.3								
+Build a Stock Market Web App With Python and Django	₹420	(386)	4 total hours	41 lectures	Beginner	4.7								
+Data Structures and Algorithms In Python	₹420	(468)	10.5 total hours	130 lectures	All Levels	4.2								
+Support Vector Machines in Python: SVM Concepts & Code	₹420	(303)	6 total hours	54 lectures	All Levels	4.2								
+OpenCV Python For Beginners | Hands on Computer Vision	₹420	(156)	11 total hours	49 lectures	Beginner	4.2								
+Step by Step Rest API Testing using Python + Pytest + Allure	₹420	(448)	16 total hours	166 lectures	Intermediate	4.1								
+Complete Python Based Image Processing and Computer Vision	₹420	(355)	5.5 total hours	60 lectures	All Levels	4.1								
+Data Science A-Z : Machine Learning with Python & R	₹420	(161)	12.5 total hours	90 lectures	All Levels	4.1								
+Build a Crypto Currency News Site With Python and Django	₹420	(269)	1.5 total hours	28 lectures	Beginner	4.4								
+"The Complete Machine Learning 2020|Python, Math|Dummy To Pro"	₹420	(156)	25 total hours	174 lectures	All Levels	4.5								
+The Complete Web Developer Course 2.0	₹420	"(63,443)"	30.5 total hours	308 lectures	All Levels	4.5								
+The Python Programming For Everyone Immersive Training	₹420	(251)	3.5 total hours	72 lectures	Beginner	4.1								
+Build Library Management System | Python & PyQt5	₹420	(125)	6.5 total hours	40 lectures	All Levels	4.1								
+"Software Development From A to Z - OOP, UML, Agile, Python"	₹420	(971)	5.5 total hours	104 lectures	All Levels	4.5								
+Python For Those Absolute Beginners Who Never Programmed	₹420	(238)	9.5 total hours	31 lectures	Beginner	4.0								
+"Decision Trees, Random Forests, AdaBoost & XGBoost in Python"	₹420	(399)	7 total hours	61 lectures	All Levels	4.4								
+Build An API With The Django Rest Framework Using Python	₹420	(250)	1.5 total hours	22 lectures	Beginner	4.3								
+Complete Python 3 Ethical Hacking Course: Zero To Mastery	₹420	(129)	8 total hours	65 lectures	All Levels	4.7								
+IoT#1: Python Basics for IoT	₹420	(430)	10 total hours	75 lectures	Intermediate	3.8								
+Develop a Shopping Cart Website with Django 2 and Python 3	₹420	(347)	7 total hours	25 lectures	All Levels	4.6								
+Artificial Neural Networks (ANN) with Keras in Python and R	₹420	(449)	11 total hours	74 lectures	All Levels	4.2								
+"C, C++, Python and Ruby Programming"	₹420	(484)	25.5 total hours	307 lectures	All Levels	3.8								
+Digital Signal Processing (DSP) From Ground Up™ in Python	₹420	(406)	12.5 total hours	151 lectures	All Levels	4.1								
+Create a Python Powered Chatbot in Under 60 Minutes	₹444	(267)	1.5 total hours	31 lectures	Beginner	4.1								
+Jump Start in Automation - Selenium WebDriver with Python	₹420	186	3.5 total hours	57 lectures	Beginner	4.1								
+Managing EC2 and VPC: AWS with Python and Boto3 Series	₹420	285	4.5 total hours	60 lectures	All Levels	4.5								
+Complete Machine Learning and Data Science: Zero to Mastery	₹420	"5,124"	43 total hours	371 lectures	All Levels	4.6								
+Manage AWS Using Python: Core Services	₹420	232	2.5 total hours	15 lectures	Beginner	4.3								
+Complete Python 3 and Raspberry Pi Masterclass	₹420	121	20.5 total hours	178 lectures	Beginner	4.0								
+(NEW) Python Programming Course: The Complete Bootcamp	₹420	12	5.5 total hours	52 lectures	All Levels	4.3								
+The Complete Ethical Hacking Course 2.0: Python & Kali Linux	₹420	642	11 total hours	71 lectures	All Levels	3.8								
+"Coding for kids: Scratch, Python, Html, Css, Math, Robotics"	₹420	249	11 total hours	135 lectures	Beginner	4.6								
+Robot Framework with Python All You Need To Know	₹420	189	5 total hours	42 lectures	All Levels	4.3								
+"Ethical Hacking With Python, JavaScript and Kali Linux"	₹420	141	27 total hours	135 lectures	Beginner	4.5								
+Python-Introduction to Data Science and Machine learning A-Z	₹420	319	7.5 total hours	51 lectures	Beginner	4.2								
+Complete Tensorflow 2 and Keras Deep Learning Bootcamp	₹420	"3,220"	19 total hours	116 lectures	All Levels	4.7								
+API and Web Service Introduction	₹420	"7,502"	6.5 total hours	55 lectures	All Levels	4.5								
+Complete 2020 Data Science & Machine Learning Bootcamp	₹420	"2,330"	41.5 total hours	207 lectures	All Levels	4.6								
+"Web Scraping 101 with Python3 using REQUESTS, LXML & SPLASH"	₹420	228	4.5 total hours	65 lectures	Beginner	4.7								
+Image Recognition with Neural Networks From Scratch	₹420	155	3 total hours	7 lectures	All Levels	4.4								
+2020 learning python3.8 from beginner to the master	₹420	260	6.5 total hours	92 lectures	Intermediate	4.2								
+"Deep Learning: Advanced Computer Vision (GANs, SSD, +More!)"	₹420	"3,249"	10 total hours	93 lectures	Intermediate	4.5								
+Data Science 2020 : Complete Data Science & Machine Learning	₹420	"1,167"	26 total hours	280 lectures	All Levels	4.6								
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
